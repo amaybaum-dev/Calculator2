@@ -21,7 +21,7 @@
         "matchHost": "https://repository.jboss.org/nexus/content/groups/public/",
         "hostType": "maven",
         "encrypted": {
-          "password": "test1234"
+          "password": "wcBMA8xOaBJvzJNbAQf/WAcsNJ5EEMvAvHMKubsbpT/TsBcBuR92QxQSE+dpVD4iVvJIKhxaLHvGqFBmaPmBtI3ByQpfuHsenA033qbPyQjTBTqchnTf2+H2WTbcxp15832kXEVCu1K1nIhR/xB5fTyA4+UOGprppiIxY2x3y64PVZpNmdMFG+FYrC3tLTri3UCEsGSAgqsVvzpnJ1iaMyJJHhoMXD2An6QZ2zK1Pa0KiYMLMhRdmG9q566pY4Awipzj6cPr5naEopahzE9dTzg5tzzlkoyYZzBWoCHUY4f/aZC1edCYTajUJvGJHY5c0U88zHtoz/x1UZtHmlNZpmYqvNv8Uo43ykXDm5cHaNJgATOW7oW3+igaBm9BfnVbcezbfROqAyTFfzlZV7WcHQrBDLtYIEMGT+r9AzqzM29IYilV4O4fKwoSQF2ogqBeDxofurMy4RoR1ym46mgkvpc1wV6p9xI3lj/8+3i93jr8"
         }
       }
   ]
