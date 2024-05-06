@@ -6,41 +6,20 @@
     "projectToken": "",
     "baseBranches": []
   },
-  "scanSettingsSAST": {
-    "enableScan": false,
-    "scanPullRequests": false,
-    "incrementalScan": true,
-    "baseBranches": [],
-    "snippetSize": 10
-  },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff",
     "useMendCheckNames": true,
     "strictMode": "warning"
   },
-  "checkRunSettingsSAST": {
-    "checkRunConclusionLevel": "failure",
-    "severityThreshold": "high"
-  },
   "issueSettings": {
     "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
   },
-  "remediateSettings": {
-    "workflowRules": {
-      "enabled": true
-    }
-  },
-   "imageSettings":{
-       "imageTracing":{
-           "enableImageTracingPR": false,
-           "addRepositoryCoordinate": false,
-           "addDockerfilePath": false,
-           "addMendIdentifier": false
-       }
-   }
+  "hostRules": [
+      {
+        "matchHost": "https://repository.jboss.org/nexus/content/groups/public/",
+        "hostType": "maven"
+      }
+  ]
 }
-
-
-
