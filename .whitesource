@@ -19,7 +19,10 @@
   "hostRules": [
       {
         "matchHost": "https://repository.jboss.org/nexus/content/groups/public/",
-        "hostType": "maven"
+        "hostType": "maven",
+        "encrypted": {
+          "password": "test1234"
+        }
       }
   ]
 }
